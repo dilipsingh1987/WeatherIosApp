@@ -114,7 +114,6 @@
 				FA93CFA52DDBDDFB00053EE7 /* Models */,
 				FA93CFA22DDBDCC700053EE7 /* Views */,
 				FA93CF762DDBDA1900053EE7 /* WeatherIosAppApp.swift */,
-				FA93CF7A2DDBDA1C00053EE7 /* Assets.xcassets */,
 				FA93CF7C2DDBDA1C00053EE7 /* Preview Content */,
 			);
 			path = WeatherIosApp;
@@ -182,6 +181,7 @@
 		FA93CFAE2DDBDEE200053EE7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FA93CF7A2DDBDA1C00053EE7 /* Assets.xcassets */,
 				FA93CFAF2DDBDFCC00053EE7 /* Constants.swift */,
 				FA93CFB12DDBDFFB00053EE7 /* Theme.swift */,
 			);
