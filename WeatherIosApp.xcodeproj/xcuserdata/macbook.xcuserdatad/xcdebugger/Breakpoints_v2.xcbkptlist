@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "642FB4D1-F88B-44D5-BC1A-738474A82A36"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27B7E762-D5B9-4E30-BCDC-8F5A34F667A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherIosAppTests/WeatherViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "testFetchWeatherSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27B7E762-D5B9-4E30-BCDC-8F5A34F667A2 - d283f7826aacede9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WeatherIosAppTests.WeatherViewModelTests.testFetchWeatherSuccess() async throws -&gt; ()"
+                  moduleName = "WeatherIosAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/IossApplications/WeatherIosApp/WeatherIosAppTests/WeatherViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  uuid = "27B7E762-D5B9-4E30-BCDC-8F5A34F667A2 - e0f679bf25d18c1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for WeatherIosAppTests.WeatherViewModelTests.testFetchWeatherSuccess() async throws -&gt; ()"
+                  moduleName = "WeatherIosAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/IossApplications/WeatherIosApp/WeatherIosAppTests/WeatherViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "27B7E762-D5B9-4E30-BCDC-8F5A34F667A2 - 470dc066cc7529e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for WeatherIosAppTests.WeatherViewModelTests.testFetchWeatherSuccess() async throws -&gt; ()"
+                  moduleName = "WeatherIosAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/IossApplications/WeatherIosApp/WeatherIosAppTests/WeatherViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "27B7E762-D5B9-4E30-BCDC-8F5A34F667A2 - 6a2ae5b6f1830418"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) await resume partial function for WeatherIosAppTests.WeatherViewModelTests.testFetchWeatherSuccess() async throws -&gt; ()"
+                  moduleName = "WeatherIosAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/IossApplications/WeatherIosApp/WeatherIosAppTests/WeatherViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "27B7E762-D5B9-4E30-BCDC-8F5A34F667A2 - 88d6aafceec5b069"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in WeatherIosAppTests.WeatherViewModelTests.testFetchWeatherSuccess() async throws -&gt; ()"
+                  moduleName = "WeatherIosAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/IossApplications/WeatherIosApp/WeatherIosAppTests/WeatherViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
